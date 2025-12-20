@@ -51,7 +51,7 @@ export default function Quiz() {
     <div className="page">
       <main className="wrapper">
         <section className="card">
-          <h1 className="title">Loteria Online</h1>
+          <h1 className="title">Verificação Online</h1>
 
           <div className="iconWrap" aria-hidden="true">
             <div className="iconCircle">
@@ -62,7 +62,7 @@ export default function Quiz() {
           </div>
 
           <p className="subtitle">
-            Adquira já sua participação para o Bolão
+            Adquira já sua participação
           </p>
 
           <button
@@ -71,7 +71,7 @@ export default function Quiz() {
             aria-haspopup="dialog"
             aria-controls="modal-root"
           >
-            ADQUIRIR LOTERIA
+            ADQUIRIR COTAS
           </button>
 
           <nav className="links" aria-label="links-legais">
