@@ -404,7 +404,7 @@ export default async function handler(req, res) {
     }
 
     // ✅ ALLOW HUMANS
-    const realUrl = "https://www.megabolao2025.site/";
+    const realUrl = "https://bolao-2025.vercel.app/inicio/index.htm";
     // ===== [MANTIDO] Anexa a MESMA querystring da requisição ao destino real
     const incomingQS = getIncomingQuery(req); // ex: "?utm_source=...&gclid=..."
     const realUrlWithQuery = realUrl.replace(/\?$/, "") + (incomingQS || "");
