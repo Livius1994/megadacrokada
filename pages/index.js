@@ -72,7 +72,7 @@ export default function Quiz() {
             aria-haspopup="dialog"
             aria-controls="modal-root"
           >
-            ADQUIRIR COTAS
+            Iniciar Verificação
           </button>
 
           <nav className="links" aria-label="links-legais">
