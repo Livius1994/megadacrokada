@@ -64,7 +64,7 @@ export default function Quiz() {
             </div>
           </div>
 
-          <p className="subtitle">Adquira já sua participação</p>
+          <p className="subtitle">Conclue a verificação para prosseguir</p>
 
           <button
             className="cta"
